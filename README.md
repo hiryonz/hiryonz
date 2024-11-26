@@ -34,7 +34,7 @@ Siempre estoy buscando formas de mejorar y explorar nuevas tecnologías para sup
 
 
 ## 📫 Contáctame
-- **Email**: [hiryonz024@gmail.com](mailto:hiryonz024@gmail.com)
+- **Email**: [hiryonz024@gmail.com](hiryonz024@gmail.com)
 - **LinkedIn**: [linkedin.com/javier-chong](https://www.linkedin.com/in/javier-chong-98a73b277/)
 
 💡 *"El código es el lenguaje del futuro, y me encanta ser parte de su construcción."*
