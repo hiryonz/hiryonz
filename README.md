@@ -27,7 +27,7 @@ Siempre estoy buscando formas de mejorar y explorar nuevas tecnologías para sup
 - **Automatización**: Scripts y soluciones para mejorar la eficiencia de los procesos.
 
 ## 📫 Contáctame
-- **Email**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- **Email**: [hiryonz024@gmail.com](mailto:hiryonz024@gmail.com)
+- **LinkedIn**: [linkedin.com/in/tu-perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/javier-chong-98a73b277/))
 
 💡 *"El código es el lenguaje del futuro, y me encanta ser parte de su construcción."*
